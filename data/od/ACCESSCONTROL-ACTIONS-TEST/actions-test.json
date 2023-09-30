@@ -17517,7 +17517,7 @@
    },
       {
          "id": 3623,
-         "name": "rainmaker-common-pms",
+         "name": "rainmaker-citizen-pms",
          "url": "card",
          "displayName": "Online Permissions",
          "orderNumber": 2,
