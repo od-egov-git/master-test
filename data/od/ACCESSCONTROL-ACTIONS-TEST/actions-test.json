@@ -17578,6 +17578,38 @@
          "leftIcon": "action:announcement",
          "rightIcon": "",
          "queryParams": ""
-      }     
+      },
+      {
+         "id": 3627,
+         "name": "rainmaker-citizen-birth",
+         "url": "card",
+         "displayName": "Birth",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "",
+         "path": "",
+         "navigationURL": "all-birth",
+         "leftIcon": "action:announcement",
+         "rightIcon": "",
+         "queryParams": ""
+      },
+      {
+         "id": 3628,
+         "name": "rainmaker-citizen-death",
+         "url": "card",
+         "displayName": "Death",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "",
+         "path": "",
+         "navigationURL": "all-death",
+         "leftIcon": "action:announcement",
+         "rightIcon": "",
+         "queryParams": ""
+      }      
    ]
 }
