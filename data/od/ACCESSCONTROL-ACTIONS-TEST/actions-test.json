@@ -17514,6 +17514,22 @@
       "serviceCode": "report",
       "code": "null",
       "path": ""
-   }
+   },
+			{
+      "id": 3623,
+      "name": "RoadCutting",
+      "url": "card",
+      "displayName": "Road Cutting",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "egov-echallan/home",
+      "leftIcon": "social:people",
+      "rightIcon": "",
+      "queryParams": ""
+    }      
    ]
 }
