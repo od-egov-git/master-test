@@ -17515,21 +17515,21 @@
       "code": "null",
       "path": ""
    },
-			{
-      "id": 3623,
-      "name": "RoadCutting",
-      "url": "card",
-      "displayName": "Road Cutting",
-      "orderNumber": 3,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "egov-echallan/home",
-      "leftIcon": "social:people",
-      "rightIcon": "",
-      "queryParams": ""
-    }      
+      {
+         "id": 3623,
+         "name": "rainmaker-common-pms",
+         "url": "card",
+         "displayName": "Online Permissions",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "",
+         "path": "",
+         "navigationURL": "all-pms",
+         "leftIcon": "action:announcement",
+         "rightIcon": "",
+         "queryParams": ""
+      }     
    ]
 }
