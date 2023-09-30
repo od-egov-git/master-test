@@ -17543,7 +17543,7 @@
          "code": "",
          "path": "",
          "navigationURL": "all-bookings",
-         "leftIcon": "action:announcement",
+         "leftIcon": "places:business-center",
          "rightIcon": "",
          "queryParams": ""
       },
