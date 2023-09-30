@@ -34,10 +34,10 @@
         "ddrName": "Cuttack",
         "wsBillHeaderLine1": "WATCO,OFFICE OF THE  GENERAL MANAGER",
         "wsBillHeaderLine2": "WATCO DIVISION : CUTTACK",
-        "bpaPermitHeader": "Cuttack Municipal Corporation",
+        "bpaPermitHeader": "Ujjain Municipal Corporation",
         "districtTenantCode": "od.cuttack"
       },
-      "address": "Cuttack Municipal Corporation",
+      "address": "Ujjain Municipal Corporation",
       "contactNumber": "1800 121 6833",
       "helpLineNumber": "1800 121 6833"
     },
@@ -77,7 +77,7 @@
         "bpaPermitHeader": "Jatni",
         "districtTenantCode": "od.jatni"
       },
-      "address": "Jatni Municipality",
+      "address": "Gwalior Municipal Corporation",
       "contactNumber": "1800 121 6833",
       "helpLineNumber": "1800 121 6833"
     },
@@ -120,7 +120,7 @@
         "bpaPermitHeader": "Angul",
         "districtTenantCode": "od.angul"
       },
-      "address": "Angul Municipality",
+      "address": "Indore Municipal Corporation",
       "contactNumber": "1800 121 6833",
       "helpLineNumber": "1800 121 6833"
     },
@@ -163,7 +163,7 @@
         "bpaPermitHeader": "Choudwar",
         "districtTenantCode": "od.choudwar"
       },
-      "address": "Choudwar Municipality",
+      "address": "Jabalpur Municipal Corporation",
       "contactNumber": "1800 121 6833",
       "helpLineNumber": "1800 121 6833"
     }
