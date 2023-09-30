@@ -17591,7 +17591,7 @@
          "code": "",
          "path": "",
          "navigationURL": "all-birth",
-         "leftIcon": "action:announcement",
+         "leftIcon": "custom:library-books",
          "rightIcon": "",
          "queryParams": ""
       },
@@ -17607,7 +17607,7 @@
          "code": "",
          "path": "",
          "navigationURL": "all-death",
-         "leftIcon": "action:announcement",
+         "leftIcon": "custom:library-books",
          "rightIcon": "",
          "queryParams": ""
       }      
