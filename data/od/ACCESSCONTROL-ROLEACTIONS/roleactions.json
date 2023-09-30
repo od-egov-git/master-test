@@ -27758,6 +27758,12 @@
       "actionid": 3626,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3627,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
