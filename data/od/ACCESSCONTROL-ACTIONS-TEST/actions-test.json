@@ -6236,7 +6236,7 @@
          "displayName": "FIRE-NOC",
          "orderNumber": 3,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "",
          "path": "",
